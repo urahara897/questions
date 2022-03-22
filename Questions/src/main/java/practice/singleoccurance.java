@@ -14,7 +14,7 @@ public class singleoccurance {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the string");
 		String str1 = sc.nextLine();
-		System.out.println("First repeated character");
+		//System.out.println("First repeated character");
 		
 		int j = str1.length()-1;
 		for (int i = 0; i<= j; i++) {
