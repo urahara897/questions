@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8772" started-at="2022-03-21T20:04:30 IST" finished-at="2022-03-21T20:04:38 IST">
+  <suite name="Default suite" duration-ms="7051" started-at="2022-03-22T12:21:19 IST" finished-at="2022-03-22T12:21:26 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8772" started-at="2022-03-21T20:04:30 IST" finished-at="2022-03-21T20:04:38 IST">
-      <class name="practice.singleoccurance">
-        <test-method status="PASS" signature="tc1()[pri:0, instance:practice.singleoccurance@7d1d39]" name="tc1" duration-ms="8731" started-at="2022-03-21T20:04:30 IST" finished-at="2022-03-21T20:04:38 IST">
+    <test name="Default test" duration-ms="7051" started-at="2022-03-22T12:21:19 IST" finished-at="2022-03-22T12:21:26 IST">
+      <class name="practice.occurance">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:practice.occurance@7d1d39]" name="tc1" duration-ms="6923" started-at="2022-03-22T12:21:19 IST" finished-at="2022-03-22T12:21:26 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc1 -->
-      </class> <!-- practice.singleoccurance -->
+      </class> <!-- practice.occurance -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
